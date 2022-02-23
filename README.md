@@ -1,4 +1,4 @@
-## Olá, eu sou o ClancysTom || Tom Clancy 😅
+## Olá, eu sou o ClancysTom || Tom Clancy 😅 desenvolvedor web e tecnologia!
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando javascript e mercado cripto
