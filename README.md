@@ -1,7 +1,7 @@
 ## Olá, eu sou o ClancysTom || Tom Clancy 😅 desenvolvedor web e tecnologia!
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando javascript e mercado cripto
+- 🌱 Estudando javascript, vue.js e mercado cripto
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
