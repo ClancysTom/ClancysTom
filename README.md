@@ -24,7 +24,10 @@
   <a href ="https://www.linkedin.com/in/tomclancy-frontend-developer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank"></a>
 </div>
 
-
+<div>
+  <a href="https://github.com/ClancysTom">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ClancysTom&show_icons=true&theme=react&include_all_comits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClancysTom&layout=compact&langs_count=7&theme=react" />
 
 ![Snake animation](https://github.com/ClancysTom/ClancysTom/blob/output/github-contribution-grid-snake.svg)
 
